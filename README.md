@@ -78,8 +78,8 @@ By the end of the course, students will be able to:
 | 100     |       Course coordinator      |   Julia Peng    |   courses[-at-]stat.ubc.ca   |     N/A      |                 |
 | 100     |          Instructor           |  Lindsey Heagy  |   lheagy[-at-]eoas.ubc.ca    | Tuesdays 14:00 - 15:00 | Zoom |
 |         |                               |                 |                              |              |                 |
-| 100     |          TA                   |  Hannah Martin  |             n/a              |  TBD   | TBD |
-| 100     |          TA                   |    Jason Bai    |             n/a              |  Mondays 17:00-18:00   | Zoom |
+| 100     |          TA                   |  Hannah Martin  |             n/a              |  Tuesdays 19:15 - 20:12  | TBD |
+| 100     |          TA                   |    Jason Bai    |             n/a              |  Mondays 17:00 - 18:00   | Zoom |
 | 100     |          TA                   |  Nihar Bhardwaj Darbhamulla |             n/a              |  Thursdays 17:30-18:30  | Zoom |
 
 
